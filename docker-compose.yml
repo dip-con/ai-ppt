@@ -4,5 +4,5 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "${HOST_PORT:-7080}:80"
+      - "${HOST_PORT:-18080}:80"
     restart: unless-stopped

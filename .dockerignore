@@ -5,3 +5,10 @@ playwright-report
 test-results
 .git
 .sisyphus
+.env*
+._*
+**/._*
+.DS_Store
+**/.DS_Store
+.AppleDouble
+**/.AppleDouble
